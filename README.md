@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋, I'm [Your Name]
 
-<!--
-**abdulbasitchohan/abdulbasitchohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer | 💡 Startup Mindset
+🎓 Student at SMIT (Web & App Development)
+💻 Passionate about building modern web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🔭 Currently working on: **Frontend & JS Projects**
+* 🌱 Learning: **Advanced JavaScript & Backend Development**
+* 💡 Interested in: **Startups & Freelancing**
+* 📫 Reach me at: **[your@email.com](mailto:your@email.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+💻 **Frontend:**
+
+* HTML
+* CSS
+* Bootstrap
+* Tailwind CSS
+* JavaScript
+
+---
+
+## 🚀 Projects
+
+* 🌐 Portfolio Website
+* 🧮 Calculator App
+* ✅ Todo App
+* 🎨 Frontend UI Projects
+
+👉 More projects on my repositories!
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* Portfolio: https://your-portfolio-link.com
+
+---
+
+## ⚡ Fun Fact
+
+I don’t just learn code, I build real-world projects 🚀
