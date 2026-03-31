@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Abdul Basit
 
 🚀 Aspiring Full Stack Developer | 💡 Startup Mindset
 🎓 Student at SMIT (Web & App Development)
@@ -11,7 +11,7 @@
 * 🔭 Currently working on: **Frontend & JS Projects**
 * 🌱 Learning: **Advanced JavaScript & Backend Development**
 * 💡 Interested in: **Startups & Freelancing**
-* 📫 Reach me at: **[your@email.com](mailto:your@email.com)**
+* 📫 Reach me at: **[abdulbasitchohan40@gmail.com](mailto:your@email.com)**
 
 ---
 
