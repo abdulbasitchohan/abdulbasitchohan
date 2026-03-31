@@ -19,7 +19,8 @@
 
 💻 **Frontend:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,git,github)](https://skillicons.dev)
 
 ---
