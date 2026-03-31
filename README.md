@@ -11,7 +11,7 @@
 * 🔭 Currently working on: **Frontend & JS Projects**
 * 🌱 Learning: **Advanced JavaScript & Backend Development**
 * 💡 Interested in: **Startups & Freelancing**
-* 📫 Reach me at: **[abdulbasitchohan40@gmail.com](mailto:your@email.com)**
+* 📫 Reach me at: **[abdulbasitchohan40@gmail.com](mailto:abdulbasitchohan40@gmail.com)**
 
 ---
 
