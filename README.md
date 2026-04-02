@@ -37,20 +37,17 @@
 👉 More projects on my repositories!
 
 ---
-
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulbasitchohan\&show_icons=true\&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulbasitchohan&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasitchohan\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasitchohan&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?abdulbasitchohan\&theme=tokyonight)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulbasitchohan&theme=tokyonight)
 
 ## 🌐 Connect with Me
 
