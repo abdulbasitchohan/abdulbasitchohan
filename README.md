@@ -1,4 +1,5 @@
-# Hi 👋, I'm Abdul Basit
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Basit!;" />
+    
 
 🚀 Aspiring Full Stack Developer | 💡 Startup Mindset
 🎓 Student at SMIT (Web & App Development)
@@ -38,9 +39,9 @@
 
 ## 📊 GitHub Stats
 
-![abdulbasitchohan](https://github-readme-stats.vercel.app/api?username=abdulbasitchohan\&show_icons=true\&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulbasitchohan\&show_icons=true\&theme=tokyonight)
 
-![abdulbasitchohan](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasitchohan\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasitchohan\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -61,3 +62,7 @@
 ## ⚡ Fun Fact
 
 I don’t just learn code, I build real-world projects 🚀
+
+
+
+
